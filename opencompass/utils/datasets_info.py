@@ -493,7 +493,7 @@ DATASETS_MAPPING = {
         "local": "./data/livestembench/",
     },
     "opencompass/longbenchv2": {
-        "ms_id": "",
+        "ms_id": "ZhipuAI/LongBench-v2",
         "hf_id": "THUDM/LongBench-v2",
         "local": "./data/longbenchv2/data.json",
     },

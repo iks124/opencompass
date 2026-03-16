@@ -18,6 +18,7 @@ from .glm import GLM130B  # noqa: F401
 from .huggingface import HuggingFace  # noqa: F401
 from .huggingface import HuggingFaceCausalLM  # noqa: F401
 from .huggingface import HuggingFaceChatGLM3  # noqa: F401
+from .fla_memory_transformer import FLAMemoryTransformer  # noqa: F401
 from .huggingface_above_v4_33 import HuggingFaceBaseModel  # noqa: F401
 from .huggingface_above_v4_33 import HuggingFacewithChatTemplate  # noqa: F401
 from .hunyuan_api import Hunyuan  # noqa: F401
